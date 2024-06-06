@@ -29,5 +29,5 @@ async function query(queryObject) {
 }
 
 export default {
-  query: defaut,
+  query: query,
 };
