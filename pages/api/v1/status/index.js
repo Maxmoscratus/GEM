@@ -1,5 +1,5 @@
 import database from "infra/database.js";
-
+console.log("atualizado");
 async function status(request, response) {
   const updatedAt = new Date().toISOString();
 
